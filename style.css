@@ -23,3 +23,28 @@ p {
 p, ol, ul {
   font-size: 22px;
 }
+
+li {
+  padding: 6px;
+}
+
+.card {
+  background-color: white;
+  width: 600px;
+  margin: 16px auto;
+  padding: 12px;
+}
+
+.title {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 12px;
+  padding: 12px;
+}
+
+.recipe-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
